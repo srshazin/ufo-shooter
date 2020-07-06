@@ -1,3 +1,13 @@
+"""
+Game name: UFO Shooter
+Developer: Shahoriar Rahman Shazin
+Fb: fb.me/srshazin
+Insta: instagram.com/srshazin
+Twitter: twitter.com/srshazin
+Happy Coding 
+
+"""
+
 import pygame
 import random
 import stars
